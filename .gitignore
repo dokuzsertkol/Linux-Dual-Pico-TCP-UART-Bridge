@@ -1,0 +1,4 @@
+*.json
+build-linux
+build-pico
+.cache
